@@ -1,5 +1,6 @@
 import "./Nav.css";
 
+//Pure functional Component
 export const Nav = () => {
   return (
     <div>
