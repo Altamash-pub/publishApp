@@ -21,14 +21,14 @@ export const bollywoodData = {
     {
       wikiUrl: "https://en.wikipedia.org/wiki/Madhuri_Dixit",
       imgUrl:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Indian_actor_Amitabh_Bachchan.jpg/338px-Indian_actor_Amitabh_Bachchan.jpg",
-      title: "Amitabh Bachchan",
-    },
-    {
-      wikiUrl: "https://en.wikipedia.org/wiki/Madhuri_Dixit",
-      imgUrl:
         "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ravish-Kumar.jpg/330px-Ravish-Kumar.jpg",
       title: "Ravish Kumar",
+    },
+    {
+      wikiUrl: "https://en.wikipedia.org/wiki/Dilip_Kumar",
+      imgUrl:
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dilip_Kumar_in_1946_Enhanced.jpg/330px-Dilip_Kumar_in_1946_Enhanced.jpg",
+      title: "Dilip Kumar",
     },
   ],
 };
